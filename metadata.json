@@ -1,0 +1,7 @@
+{
+  "name": "Catalyst: AI Soundtrack Generator",
+  "description": "A streamlined web application that leverages Generative AI to produce high-quality, unique, and royalty-free instrumental background music loops and soundtracks for content creators.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
